@@ -1,5 +1,5 @@
 {
-  "name": "@azgaresncf/is-domain-blocked-by-quad9",
+  "name": "is-domain-blocked-by-quad9",
   "version": "1.0.0",
   "description": "To verify if a domain is blocked by Quad9.",
   "main": "index.js",
