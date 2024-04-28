@@ -1,0 +1,25 @@
+{
+  "name": "@azgaresncf/is-domain-blocked-by-quad9",
+  "version": "1.0.0",
+  "description": "To verify if a domain is blocked by Quad9.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "quad9",
+    "dns",
+    "domain",
+    "blocked"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azgaresncf/is-domain-blocked-by-quad9.git"
+  },
+  "author": "Azgar <azgaresncf@gmail.com>",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/azgaresncf/is-domain-blocked-by-quad9/issues"
+  },
+  "homepage": "https://github.com/azgaresncf/is-domain-blocked-by-quad9#readme"
+}
